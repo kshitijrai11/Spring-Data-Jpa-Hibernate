@@ -1,0 +1,22 @@
+INSERT into test.product_table (price, quantity, sku, title_x)
+Values
+(12.4, 4, 'parle734', 'Parle Biscuits'),
+(14.4, 1, 'pepsi123', 'Pepsi'),
+(16.4, 3, 'pepsi156', 'Mazza'),
+(34.4, 10, 'Coke124', 'Coca Cola'),
+(25.0, 5, 'lays123', 'Lays Classic Chips'),
+(18.75, 2, 'sprite001', 'Sprite'),
+(45.0, 12, 'kitkat77', 'KitKat Chocolate'),
+(10.0, 20, 'oreo567', 'Oreo Biscuits'),
+(5.5, 50, 'candies89', 'Assorted Candies'),
+(22.99, 7, 'frooti55', 'Frooti Mango Drink'),
+(120.0, 3, 'tidepwr', 'Tide Washing Powder'),
+(60.5, 4, 'surfex88', 'Surf Excel Detergent'),
+(33.3, 6, 'rinsoap9', 'Rin Soap'),
+(150.0, 2, 'nivea12', 'Nivea Body Lotion'),
+(12.0, 8, 'milk500', 'Amul Milk 500ml'),
+(50.0, 10, 'bread111', 'Whole Wheat Bread'),
+(8.5, 25, 'butter45', 'Amul Butter 100g'),
+(99.9, 1, 'almnd121', 'Almond Chocolate Box'),
+(20.0, 15, 'cocobar2', 'Coconut Bar Chocolate'),
+(30.0, 7, 'chipsmex', 'Mexican Spicy Chips');
